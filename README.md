@@ -1,4 +1,4 @@
-# Project: TODO-GEEKUP
+# Project: Todolist
 
 Todolist is a project aimed at creating a simple to-do list application. It consists of two main components: a server component for managing data using JSON Server and a client-side component built with React.
 
