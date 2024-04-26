@@ -1,14 +1,14 @@
 # Project: TODO-GEEKUP
 
-TODO-GEEKUP is a project aimed at creating a simple to-do list application. It consists of two main components: a server component for managing data using JSON Server and a client-side component built with React.
+Todolist is a project aimed at creating a simple to-do list application. It consists of two main components: a server component for managing data using JSON Server and a client-side component built with React.
 
 ## Project Setup
 
 1. **Open your terminal or command prompt.**
 
-2. **Navigate to the `TODO-GEEKUP` directory:**
+2. **Navigate to the `todolist` directory:**
    ```bash
-   cd TODO-GEEKUP
+   cd todolist
    ```
 
 ## Server Component (database) Setup
@@ -49,4 +49,4 @@ TODO-GEEKUP is a project aimed at creating a simple to-do list application. It c
 
 - Open your preferred web browser and go to `http://localhost:3000`.
 
-Now you have successfully set up the TODO-GEEKUP project and can start using the to-do list application.
+Now you have successfully set up the todolist project and can start using the to-do list application.
