@@ -6,9 +6,9 @@ Todolist is a project aimed at creating a simple to-do list application. It cons
 
 1. **Open your terminal or command prompt.**
 
-2. **Navigate to the `todolist` directory:**
+2. **Navigate to the `to-do-list` directory:**
    ```bash
-   cd todolist
+   cd to-do-list
    ```
 
 ## Server Component (database) Setup
